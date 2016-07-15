@@ -1,0 +1,197 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"xmlns:w="urn:schemas-microsoft-com:office:word"xmlns="http://www.w3.org/TR/REC-html40">
+    <head>
+        <xml><w:WordDocument><w:View>Print</w:View></xml>
+        <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/> 
+        <style>
+            //body{padding:0;margin:0;}
+            //.main{margin:0 auto;width:1200px;}
+        </style>
+    </head>  
+    <body>
+        <div class="main">
+            <form method="post" action="">
+                <h3 align='center'>样品检测报告</h3>
+
+                <h4>一、 项目及样品信息</h4>
+                <table width="600"  cellpadding="4" cellspacing="0" border="1"  align='center'> 
+                    <tr> 
+                        <td width="100">项目名称</td> 
+                        <td colspan='3'>文海军中山大学DNA重测序</td> 
+                    </tr> 
+                    <tr> 
+                        <td width="100">项目编号</td> 
+                        <td colspan='3'>GDD1534</td> 
+                    </tr>  
+                    <tr> 
+                        <td width="100">样品类型</td>
+                        <td width="195">DNA</td>
+                        <td width="110">样品状态</td>
+                        <td width="195">溶于ddH2O</td>
+                    </tr> 
+                    <tr> 
+                        <td>样品数量</td>
+                        <td>2</td>
+                        <td>样品运输情况</td>
+                        <td>良好</td>
+                    </tr>
+                    <tr> 
+                        <td>收样日期</td>
+                        <td>2016-02-29</td>
+                        <td>完成检测日期</td>
+                        <td>2016-03-01</td>
+                    </tr>
+                    <tr> 
+                        <td>报告出具人</td>
+                        <td>XYX</td>
+                        <td>报告审核人</td>
+                        <td>YQC</td>
+                    </tr>
+                </table> 
+
+                <h4>二、 检测过程和结果</h4>
+
+                <p><b>1. 检测前处理</b> ■直接检测 □稀释检测 </p>
+
+                <p><b>2. 纯度与浓度检测方法说明</b></p>
+                <p>■Qubit定量</p>
+                <p>■琼脂糖电泳检测（胶浓度：2%，电压：110V）</p>
+
+                <p><b>3. 检测结果</b></p>
+                <p><b>1>Qubit检测结果：（表1）</b></p>
+                <div class="Qbuit" style="text-align: center;">
+                    <table width="500"  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>生产编号</th>
+                                <th>样品名称</th>
+                                <th>浓度ng/ul</th>
+                                <th>体积ul</th>
+                                <th>总量ug</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                            <tr align="center">
+                                    <td>D1602007</td>
+                                    <td>WHJ6</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                                    </tbody>
+                    </table>
+                </div>
+                
+                <p><b>2>琼脂糖电泳检测结果：</b></p>
+                <p align="center"><b>上样顺序：<u></u></b></p>
+                <div class="sampleImag" style="text-align: center;">
+                                    </div>                
+
+                <p><b>4. 检测结果汇总：（以下浓度为样本实际浓度值）</b></p>
+                <div class="combine">
+                    <table width="600"  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>生产编号</th>
+                                <th>样品名称</th>
+                                <th>浓度ng/ul</th>
+                                <th>体积ul</th>
+                                <th>总量ug</th>
+                                <th>文库类型</th>
+                                <th>样品质量</th>
+                                <th>结论</th>
+                                <th>备注</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                            <tr align="center">
+                                    <td>D1602007</td>
+                                    <td>WHJ6</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                                    </tbody>
+                    </table>
+                </div>
+                <div class="remark" style="margin:0 auto;width:600px;text-align: left;">
+                    <b>备注选项：</b>
+                    <ul style="list-style-type: none;line-height: 30px;">
+                        <li>A.浓度不达标</li>
+                        <li>B.样本明显降解</li>
+                        <li>C.总量不达标</li>
+                        <li>D.明显RNA污染</li>
+                        <li>E.杂带明显</li>
+                        <li>F.主带大小与提供信息不符</li>
+                        <li>G.可风险建库</li>
+                    </ul>
+                </div>
+                <p><b>样品判断标准如下：</b></p>
+                <table width="600"  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                    <thead>
+                        <tr>
+                            <th>建库类型</th>
+                            <th>片段大小</th>
+                            <th>浓度（ng/ul）</th>
+                            <th>总量（ng）</th>
+                            <th>其它</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>PCR产物（已纯化）</td>
+                            <td>小于500bp</td>
+                            <td>≥5</td>
+                            <td>200</td>
+                            <td rowspan="4">单一条带，样本无明显RNA污染，无严重降解</td>
+                        </tr>
+                        <tr>
+                            <td>PCR产物（未纯化）</td>
+                            <td>小于500bp</td>
+                            <td>≥5</td>
+                            <td>500</td>
+                        </tr>
+                        <tr>
+                            <td>PCR产物（已纯化）</td>
+                            <td>大于500bp</td>
+                            <td>≥10</td>
+                            <td>500</td>
+                        </tr>
+                        <tr>
+                            <td>PCR产物（未纯化）</td>
+                            <td>大于500bp</td>
+                            <td>≥20</td>
+                            <td>1000</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h4>三、 结论</h4>
+                <div class="conclusion">
+                    <table width="600"  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>检测样品总数</th>
+                                <th>可直接建库样品数</th>
+                                <th>可风险建库样品</th>
+                                <th>不建议直接建库样品数（需重送样品）</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr align="center">
+                                <td>2</td>
+                                <td>0</td>
+                                <td>1</td>
+                                <td>1</td>
+                            </tr>
+                        </tbody>
+                    </table>                  
+                    
+                </div>
+            </form>
+        </div>
+    </body>
+</html>

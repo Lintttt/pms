@@ -1,0 +1,8 @@
+pms v2.8
+数据库
+新增数据库表:
+1. 表：zt_fridge
+2.表：zt_fridgefloor
+3.表：zt_fridgedetail
+4.表：zt_fridgesample
+5.表：zt_fridgestate

@@ -1,0 +1,6 @@
+服务器：genedenovoweb.ticp.net
+sudo密码：gd225314server
+数据库密码：gd20131023luo
+----------------------------
+个人用户：caixiaojun	
+密码:cxj123456

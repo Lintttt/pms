@@ -1,0 +1,132 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"xmlns:w="urn:schemas-microsoft-com:office:word"xmlns="http://www.w3.org/TR/REC-html40">
+    <head>
+        <xml><w:WordDocument><w:View>Print</w:View></xml>
+        <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/> 
+        <style>
+            //body{padding:0;margin:0;}
+            //.main{margin:0 auto;width:1200px;}
+        </style>
+    </head>  
+    <body>
+        <div class="main">
+            <form method="post" action="">
+                <h3 align='center'>Meta样本质检报告</h3>
+
+                <h4>一、 项目基本信息</h4>
+                <table width="600"  cellpadding="4" cellspacing="0" border="1"  align='center'> 
+                    <tr> 
+                        <td width="100">项目名称</td> 
+                        <td colspan='3'>文海军中山大学DNA重测序</td> 
+                    </tr> 
+                    <tr> 
+                        <td width="100">项目编号</td> 
+                        <td colspan='3'>GDD1534</td> 
+                    </tr>  
+                    <tr> 
+                        <td width="100">样品类型</td>
+                        <td width="195">DNA</td>
+                        <td width="110">样品数量</td>
+                        <td width="195">2</td>
+                    </tr> 
+                    <tr> 
+                        <td>收样日期</td>
+                        <td>2016-02-29</td>
+                        <td>完成检测日期</td>
+                        <td>2016-03-01</td>
+                    </tr>
+                    <tr> 
+                        <td>报告出具人</td>
+                        <td>XYX</td>
+                        <td>报告审核人</td>
+                        <td>YQC</td>
+                    </tr>
+                </table> 
+
+                <h4>二、 样品检测方法</h4>
+                <ul>
+                    <li>DNA纯度检测方法：☑ NanoDrop</li>
+                    <li>DNA浓度检测方法：☑ Qubit</li>
+                    <li>DNA完整性检测方法：☑ 琼脂糖凝胶电泳</li>
+                    <li>物（菌）种鉴定方法：□16S Sanger测序、□ITS Sanger测序、□18S Sange测序</li> 
+                </ul>             
+
+                
+
+                <h4>三、 样品检测结果</h4>
+                <div class="combine">
+                    <table width="600"  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>生产编号</th>
+                                <th>样品名称</th>
+                                <th>OD260/280</th>
+                                <th>OD260/230</th>
+                                <th>浓度ng/ul</th>
+                                <th>体积ul</th>
+                                <th>总量ug</th>
+                                <th>样品质量</th>
+                                <th>结论</th>
+                                <th>备注</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                            <tr align="center">
+                                    <td>D1602007</td>
+                                    <td>WHJ6</td>
+                                    <td>5</td>
+                                    <td>5</td>
+                                    <td>69.8</td>
+                                    <td>20</td>
+                                    <td>1.40</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>BC</td>
+                                </tr>
+                                                    </tbody>
+                    </table>
+                </div>
+                <p><b>*声明:本报告只对本次检测样品负责</b></p>
+
+                <p><b>1、结果说明</b></p>
+                <p>A：主带在15kb以上，DNA无蛋白、色素等杂质污染，总量达到两次实验要求，可进行后续实验；</p>
+                <p>B：主带在10kb以上，DNA无蛋白、色素等杂质污染，总量达到一次实验要求，可尝试进行后续实验；</p>
+                <p>C：主带在10kb以下或检测无明显条带，DNA有严重蛋白、色素等杂质污染，总量达不到实验要求，不能满足后续实验；</p>
+
+                <p><b>2、文库实验要求</b></p>
+                <table width="500" cellpadding="4" cellspacing="0" border="1"  align='center'>
+                    <thead>
+                        <tr>
+                            <th>实验类型</th>
+                            <th>样品浓度</th>
+                            <th>样品需求量</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr align="center">
+                            <td>多样性文库</td>
+                            <td>≥5ng/μl</td>
+                            <td>≥500ng</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <h4>三、 附件</h4>
+                <div class="attachment">
+                    <h4>附件一：琼脂糖凝胶电泳检测结果</h4>
+                    <p><b>(1)检测前准备</b></p>
+                    <p>将样品在冰上融化后，充分混匀并离心，取适量样品进行检测。</p>
+                    <p><b>(2)检测参数</b></p>
+                    <p>琼脂糖凝胶浓度：1% 琼脂糖胶</p>
+                    <p>电压：100V</p>
+                    <p>时间：30min</p>
+                    <p><b>(3)Mark说明：(单位bp)</b></p>
+                    <p align="center"><img src="http://genedenovoweb.ticp.net:81/pms/www/data/upload/detect_report/mark_meta.png"/></p>
+                </div>
+                <h4>电泳检测图：上样顺序：<u>D1602007-D1602010-DNA Marker</u></h4>
+                <div class="sampleImag" style="text-align: center;">
+                                            <img src="http://genedenovoweb.ticp.net:81/pms/www/data/upload/detect_report/GDD1534/20160520174330_logo (1).ico"/><br/><br/>
+                                    </div>
+            </form>
+        </div>
+    </body>
+</html>

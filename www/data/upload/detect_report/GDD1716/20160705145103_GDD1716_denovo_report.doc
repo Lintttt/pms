@@ -1,0 +1,1122 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"xmlns:w="urn:schemas-microsoft-com:office:word"xmlns="http://www.w3.org/TR/REC-html40">
+    <head>
+        <xml><w:WordDocument><w:View>Print</w:View></xml>
+        <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/> 
+        <style>
+            //body{padding:0;margin:0;}
+            //.main{margin:0 auto;width:1200px;}
+        </style>
+    </head>  
+    <body>
+        <div class="main">
+            <form method="post" action="">
+                <h3 align='center'>样品检测报告</h3>
+                <h4>一、 项目及样品信息</h4>
+                <table  cellpadding="4" cellspacing="0" border="1"  align='center'> 
+                    <tr> 
+                        <td width="100">项目名称</td> 
+                        <td colspan='3'>4例大白菜重测序及MutMap 信息分析</td> 
+                    </tr> 
+                    <tr> 
+                        <td width="100">项目编号</td> 
+                        <td colspan='3'>GDD1716</td> 
+                    </tr>  
+                    <tr> 
+                        <td width="100">样品类型</td>
+                        <td width="195">DNA</td>
+                        <td width="110">样品状态</td>
+                        <td width="195">溶于ddH2O</td>
+                    </tr> 
+                    <tr> 
+                        <td>样品数量</td>
+                        <td>124</td>
+                        <td>样品运输情况</td>
+                        <td>良好</td>
+                    </tr>
+                    <tr> 
+                        <td>收样日期</td>
+                        <td>2016-07-05</td>
+                        <td>完成检测日期</td>
+                        <td>2016-07-05</td>
+                    </tr>
+                    <tr> 
+                        <td>报告出具人</td>
+                        <td>XYX</td>
+                        <td>报告审核人</td>
+                        <td>YQC</td>
+                    </tr>
+                </table> 
+
+                <h4>二、 检测过程和结果</h4>
+
+                <p><b>1. 检测前处理</b> ■直接检测 □稀释检测 </p>
+
+                <p><b>2. 纯度与浓度检测方法说明</b></p>
+                <p>■纯度检测--NanoDrop 2000分光光度计检测</p>
+                <p>■完整性检测--琼脂糖电泳检测（胶浓度：1.0%，电压：120V）</p>
+                <p>■总量检测--Qubit荧光光度计</p>
+
+                <p><b>3. 检测结果</b></p>
+                <p><b>1>NanoDrop 2000分光光度计检测结果（表1）</b></p>
+                <div class="Nanodrop" style="text-align:center;">
+                    <table  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>生产编号</th>
+                                <th>样品名称</th>
+                                <th>NanoDropng/μl</th>
+                                <th>260/280</th>
+                                <th>260/230</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                            <tr align="center">
+                                    <td>D1607001</td>
+                                    <td>11-4</td>
+                                    <td>1975.1</td>
+                                    <td>2.05</td>
+                                    <td>2.21</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607002</td>
+                                    <td>11-9</td>
+                                    <td>1876.4</td>
+                                    <td>2.07</td>
+                                    <td>2.17</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607003</td>
+                                    <td>11-19</td>
+                                    <td>2390.2</td>
+                                    <td>2.06</td>
+                                    <td>2.21</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607004</td>
+                                    <td>11-20</td>
+                                    <td>1250.9</td>
+                                    <td>2.03</td>
+                                    <td>2.13</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607005</td>
+                                    <td>11-29</td>
+                                    <td>1760.5</td>
+                                    <td>2.05</td>
+                                    <td>2.26</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607006</td>
+                                    <td>11-48</td>
+                                    <td>2152.1</td>
+                                    <td>2.05</td>
+                                    <td>2.25</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607007</td>
+                                    <td>11-60</td>
+                                    <td>2041</td>
+                                    <td>2.08</td>
+                                    <td>2.23</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607008</td>
+                                    <td>11-69</td>
+                                    <td>2603</td>
+                                    <td>2.03</td>
+                                    <td>2.17</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607009</td>
+                                    <td>11-70</td>
+                                    <td>2203.3</td>
+                                    <td>2.04</td>
+                                    <td>2.18</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607010</td>
+                                    <td>11-73</td>
+                                    <td>2198.3</td>
+                                    <td>2.07</td>
+                                    <td>2.16</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607011</td>
+                                    <td>11-86</td>
+                                    <td>1505.2</td>
+                                    <td>2.08</td>
+                                    <td>2.2</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607012</td>
+                                    <td>11-89</td>
+                                    <td>1561.4</td>
+                                    <td>2.06</td>
+                                    <td>2.16</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607013</td>
+                                    <td>11-90</td>
+                                    <td>1488.3</td>
+                                    <td>2.05</td>
+                                    <td>2.14</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607014</td>
+                                    <td>11-91</td>
+                                    <td>1799.5</td>
+                                    <td>2.07</td>
+                                    <td>2.22</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607015</td>
+                                    <td>11-93</td>
+                                    <td>1944.7</td>
+                                    <td>2.05</td>
+                                    <td>2.14</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607016</td>
+                                    <td>11-95</td>
+                                    <td>1992.8</td>
+                                    <td>2.05</td>
+                                    <td>2.2</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607017</td>
+                                    <td>11-101</td>
+                                    <td>1608.3</td>
+                                    <td>2.05</td>
+                                    <td>2.22</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607018</td>
+                                    <td>11-102</td>
+                                    <td>2111.2</td>
+                                    <td>2.06</td>
+                                    <td>2.13</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607019</td>
+                                    <td>11-105</td>
+                                    <td>2864.5</td>
+                                    <td>2.02</td>
+                                    <td>2.14</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607020</td>
+                                    <td>11-113</td>
+                                    <td>1740.9</td>
+                                    <td>2.05</td>
+                                    <td>2.15</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607021</td>
+                                    <td>11-126</td>
+                                    <td>1826.2</td>
+                                    <td>2.08</td>
+                                    <td>2.2</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607022</td>
+                                    <td>11-130</td>
+                                    <td>1782</td>
+                                    <td>2.09</td>
+                                    <td>2.23</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607023</td>
+                                    <td>11-132</td>
+                                    <td>409</td>
+                                    <td>2.04</td>
+                                    <td>2</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607024</td>
+                                    <td>11-153</td>
+                                    <td>1328</td>
+                                    <td>2.07</td>
+                                    <td>2.15</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607025</td>
+                                    <td>11-156</td>
+                                    <td>1503.6</td>
+                                    <td>2.07</td>
+                                    <td>2.18</td>
+                                </tr>
+                             
+                        </tbody>
+                    </table>
+                </div>
+
+                <p><b>2>琼脂糖电泳检测结果：</b></p>
+                <p align="center"><b>上样量：Nano值*上样体积/稀释倍数（表2）</b></p>
+                <div class="electri">
+                    <table  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>生产编号</th>
+                                <th>样品名称</th>
+                                <th>NanoDropng/μl</th>
+                                <th>稀释倍数</th>
+                                <th>稀释后浓度ng/μl</th>
+                                <th>电泳上样体积μl</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                            <tr align="center">
+                                    <td>D1607001</td>
+                                    <td>11-4</td>
+                                    <td>1975.1</td>
+                                    <td>1</td>
+                                    <td>1975.1</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607002</td>
+                                    <td>11-9</td>
+                                    <td>1876.4</td>
+                                    <td>1</td>
+                                    <td>1876.4</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607003</td>
+                                    <td>11-19</td>
+                                    <td>2390.2</td>
+                                    <td>1</td>
+                                    <td>2390.2</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607004</td>
+                                    <td>11-20</td>
+                                    <td>1250.9</td>
+                                    <td>1</td>
+                                    <td>1250.9</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607005</td>
+                                    <td>11-29</td>
+                                    <td>1760.5</td>
+                                    <td>1</td>
+                                    <td>1760.5</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607006</td>
+                                    <td>11-48</td>
+                                    <td>2152.1</td>
+                                    <td>1</td>
+                                    <td>2152.1</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607007</td>
+                                    <td>11-60</td>
+                                    <td>2041</td>
+                                    <td>1</td>
+                                    <td>2041</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607008</td>
+                                    <td>11-69</td>
+                                    <td>2603</td>
+                                    <td>1</td>
+                                    <td>2603</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607009</td>
+                                    <td>11-70</td>
+                                    <td>2203.3</td>
+                                    <td>1</td>
+                                    <td>2203.3</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607010</td>
+                                    <td>11-73</td>
+                                    <td>2198.3</td>
+                                    <td>1</td>
+                                    <td>2198.3</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607011</td>
+                                    <td>11-86</td>
+                                    <td>1505.2</td>
+                                    <td>1</td>
+                                    <td>1505.2</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607012</td>
+                                    <td>11-89</td>
+                                    <td>1561.4</td>
+                                    <td>1</td>
+                                    <td>1561.4</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607013</td>
+                                    <td>11-90</td>
+                                    <td>1488.3</td>
+                                    <td>1</td>
+                                    <td>1488.3</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607014</td>
+                                    <td>11-91</td>
+                                    <td>1799.5</td>
+                                    <td>1</td>
+                                    <td>1799.5</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607015</td>
+                                    <td>11-93</td>
+                                    <td>1944.7</td>
+                                    <td>1</td>
+                                    <td>1944.7</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607016</td>
+                                    <td>11-95</td>
+                                    <td>1992.8</td>
+                                    <td>1</td>
+                                    <td>1992.8</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607017</td>
+                                    <td>11-101</td>
+                                    <td>1608.3</td>
+                                    <td>1</td>
+                                    <td>1608.3</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607018</td>
+                                    <td>11-102</td>
+                                    <td>2111.2</td>
+                                    <td>1</td>
+                                    <td>2111.2</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607019</td>
+                                    <td>11-105</td>
+                                    <td>2864.5</td>
+                                    <td>1</td>
+                                    <td>2864.5</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607020</td>
+                                    <td>11-113</td>
+                                    <td>1740.9</td>
+                                    <td>1</td>
+                                    <td>1740.9</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607021</td>
+                                    <td>11-126</td>
+                                    <td>1826.2</td>
+                                    <td>1</td>
+                                    <td>1826.2</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607022</td>
+                                    <td>11-130</td>
+                                    <td>1782</td>
+                                    <td>1</td>
+                                    <td>1782</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607023</td>
+                                    <td>11-132</td>
+                                    <td>409</td>
+                                    <td>1</td>
+                                    <td>409</td>
+                                    <td>3</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607024</td>
+                                    <td>11-153</td>
+                                    <td>1328</td>
+                                    <td>1</td>
+                                    <td>1328</td>
+                                    <td>1</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607025</td>
+                                    <td>11-156</td>
+                                    <td>1503.6</td>
+                                    <td>1</td>
+                                    <td>1503.6</td>
+                                    <td>1</td>
+                                </tr>
+                                                    </tbody>
+                    </table>
+                </div>
+                <p align="center"><b>上样顺序：<u>DNA Marker-D1607001-D1607124</u></b></p>
+                <div class="sampleImag" style="text-align: center;">
+                                    </div>
+
+                <p><b>3>Qubit检测结果：（表3）</b></p>
+                <div class="Qbuit" style="text-align: center;">
+                    <table cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>生产编号</th>
+                                <th>样品名称</th>
+                                <th>浓度ng/ul</th>
+                                <th>体积ul</th>
+                                <th>总量ug</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                            <tr align="center">
+                                    <td>D1607001</td>
+                                    <td>11-4</td>
+                                    <td>36.6</td>
+                                    <td>46</td>
+                                    <td>1.68 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607002</td>
+                                    <td>11-9</td>
+                                    <td>64</td>
+                                    <td>46</td>
+                                    <td>2.94 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607003</td>
+                                    <td>11-19</td>
+                                    <td>52.08</td>
+                                    <td>45</td>
+                                    <td>2.34 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607004</td>
+                                    <td>11-20</td>
+                                    <td>48.4</td>
+                                    <td>46</td>
+                                    <td>2.23 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607005</td>
+                                    <td>11-29</td>
+                                    <td>39</td>
+                                    <td>46</td>
+                                    <td>1.79 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607006</td>
+                                    <td>11-48</td>
+                                    <td>40.6</td>
+                                    <td>46</td>
+                                    <td>1.87 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607007</td>
+                                    <td>11-60</td>
+                                    <td>41</td>
+                                    <td>46</td>
+                                    <td>1.89 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607008</td>
+                                    <td>11-69</td>
+                                    <td>49.6</td>
+                                    <td>46</td>
+                                    <td>2.28 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607009</td>
+                                    <td>11-70</td>
+                                    <td>81.6</td>
+                                    <td>46</td>
+                                    <td>3.75 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607010</td>
+                                    <td>11-73</td>
+                                    <td>93.6</td>
+                                    <td>50</td>
+                                    <td>4.68 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607011</td>
+                                    <td>11-86</td>
+                                    <td>37.6</td>
+                                    <td>52</td>
+                                    <td>1.96 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607012</td>
+                                    <td>11-89</td>
+                                    <td>74.2</td>
+                                    <td>45</td>
+                                    <td>3.34 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607013</td>
+                                    <td>11-90</td>
+                                    <td>57.8</td>
+                                    <td>48</td>
+                                    <td>2.77 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607014</td>
+                                    <td>11-91</td>
+                                    <td>30.4</td>
+                                    <td>48</td>
+                                    <td>1.46 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607015</td>
+                                    <td>11-93</td>
+                                    <td>83.8</td>
+                                    <td>48</td>
+                                    <td>4.02 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607016</td>
+                                    <td>11-95</td>
+                                    <td>81.2</td>
+                                    <td>48</td>
+                                    <td>3.90 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607017</td>
+                                    <td>11-101</td>
+                                    <td>45.4</td>
+                                    <td>49</td>
+                                    <td>2.22 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607018</td>
+                                    <td>11-102</td>
+                                    <td>69.4</td>
+                                    <td>47</td>
+                                    <td>3.26 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607019</td>
+                                    <td>11-105</td>
+                                    <td>72.8</td>
+                                    <td>49</td>
+                                    <td>3.57 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607020</td>
+                                    <td>11-113</td>
+                                    <td>84.8</td>
+                                    <td>49</td>
+                                    <td>4.16 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607021</td>
+                                    <td>11-126</td>
+                                    <td>60.8</td>
+                                    <td>53</td>
+                                    <td>3.22 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607022</td>
+                                    <td>11-130</td>
+                                    <td>58.2</td>
+                                    <td>56</td>
+                                    <td>3.26 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607023</td>
+                                    <td>11-132</td>
+                                    <td>9.82</td>
+                                    <td>51</td>
+                                    <td>0.50 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607024</td>
+                                    <td>11-153</td>
+                                    <td>62.4</td>
+                                    <td>51</td>
+                                    <td>3.18 </td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607025</td>
+                                    <td>11-156</td>
+                                    <td>56.6</td>
+                                    <td>51</td>
+                                    <td>2.89 </td>
+                                </tr>
+                                                    </tbody>
+                    </table>
+                </div>
+
+                <p><b>4. 检测结果汇总</b></p>
+                <div class="combine">
+                    <table width="600"  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>生产编号</th>
+                                <th>样品名称</th>
+                                <th>浓度ng/ul</th>
+                                <th>体积ul</th>
+                                <th>总量ug</th>
+                                <th>文库类型</th>
+                                <th>样品质量</th>
+                                <th>结论</th>
+                                <th>备注</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                            <tr align="center">
+                                    <td>D1607001</td>
+                                    <td>11-4</td>
+                                    <td>36.6</td>
+                                    <td>46</td>
+                                    <td>1.68 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607002</td>
+                                    <td>11-9</td>
+                                    <td>64</td>
+                                    <td>46</td>
+                                    <td>2.94 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607003</td>
+                                    <td>11-19</td>
+                                    <td>52.08</td>
+                                    <td>45</td>
+                                    <td>2.34 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607004</td>
+                                    <td>11-20</td>
+                                    <td>48.4</td>
+                                    <td>46</td>
+                                    <td>2.23 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607005</td>
+                                    <td>11-29</td>
+                                    <td>39</td>
+                                    <td>46</td>
+                                    <td>1.79 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607006</td>
+                                    <td>11-48</td>
+                                    <td>40.6</td>
+                                    <td>46</td>
+                                    <td>1.87 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607007</td>
+                                    <td>11-60</td>
+                                    <td>41</td>
+                                    <td>46</td>
+                                    <td>1.89 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607008</td>
+                                    <td>11-69</td>
+                                    <td>49.6</td>
+                                    <td>46</td>
+                                    <td>2.28 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607009</td>
+                                    <td>11-70</td>
+                                    <td>81.6</td>
+                                    <td>46</td>
+                                    <td>3.75 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>通过</td>
+                                    <td></td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607010</td>
+                                    <td>11-73</td>
+                                    <td>93.6</td>
+                                    <td>50</td>
+                                    <td>4.68 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>通过</td>
+                                    <td></td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607011</td>
+                                    <td>11-86</td>
+                                    <td>37.6</td>
+                                    <td>52</td>
+                                    <td>1.96 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607012</td>
+                                    <td>11-89</td>
+                                    <td>74.2</td>
+                                    <td>45</td>
+                                    <td>3.34 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>通过</td>
+                                    <td></td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607013</td>
+                                    <td>11-90</td>
+                                    <td>57.8</td>
+                                    <td>48</td>
+                                    <td>2.77 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607014</td>
+                                    <td>11-91</td>
+                                    <td>30.4</td>
+                                    <td>48</td>
+                                    <td>1.46 </td>
+                                    <td>重测序</td>
+                                    <td>不合格</td>
+                                    <td>不通过</td>
+                                    <td>CD</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607015</td>
+                                    <td>11-93</td>
+                                    <td>83.8</td>
+                                    <td>48</td>
+                                    <td>4.02 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>通过</td>
+                                    <td></td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607016</td>
+                                    <td>11-95</td>
+                                    <td>81.2</td>
+                                    <td>48</td>
+                                    <td>3.90 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>通过</td>
+                                    <td></td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607017</td>
+                                    <td>11-101</td>
+                                    <td>45.4</td>
+                                    <td>49</td>
+                                    <td>2.22 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607018</td>
+                                    <td>11-102</td>
+                                    <td>69.4</td>
+                                    <td>47</td>
+                                    <td>3.26 </td>
+                                    <td>重测序</td>
+                                    <td>不合格</td>
+                                    <td>不通过</td>
+                                    <td>E</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607019</td>
+                                    <td>11-105</td>
+                                    <td>72.8</td>
+                                    <td>49</td>
+                                    <td>3.57 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>通过</td>
+                                    <td></td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607020</td>
+                                    <td>11-113</td>
+                                    <td>84.8</td>
+                                    <td>49</td>
+                                    <td>4.16 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>通过</td>
+                                    <td></td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607021</td>
+                                    <td>11-126</td>
+                                    <td>60.8</td>
+                                    <td>53</td>
+                                    <td>3.22 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607022</td>
+                                    <td>11-130</td>
+                                    <td>58.2</td>
+                                    <td>56</td>
+                                    <td>3.26 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607023</td>
+                                    <td>11-132</td>
+                                    <td>9.82</td>
+                                    <td>51</td>
+                                    <td>0.50 </td>
+                                    <td>重测序</td>
+                                    <td>不合格</td>
+                                    <td>不通过</td>
+                                    <td>CD</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607024</td>
+                                    <td>11-153</td>
+                                    <td>62.4</td>
+                                    <td>51</td>
+                                    <td>3.18 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                            <tr align="center">
+                                    <td>D1607025</td>
+                                    <td>11-156</td>
+                                    <td>56.6</td>
+                                    <td>51</td>
+                                    <td>2.89 </td>
+                                    <td>重测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>D</td>
+                                </tr>
+                                                    </tbody>
+                    </table>
+                </div>
+                <p><b>（如果您对检测结果有疑问，请优先参阅报告末尾的FAQs，或与项目管理取得联系。）</b></p>
+                <div class="remark" style="margin:0 auto;width:600px;text-align: left;">
+                    <b>备注选项：</b>
+                    <ul style="list-style-type: none;line-height: 30px;">
+                        <li>A.RNA轻度污染</li>
+                        <li>B.样本轻微降解（gDNA主带占绝对优势）</li>
+                        <li>C.总量不达标（FAQs-3）</li>
+                        <li>D.浓度不达标（FAQs-3）</li>
+                        <li>E.样本严重降解（gDNA主带呈现弱势）（FAQs-2）</li>
+                        <li>F.RNA重度污染（FAQs-4/7）</li>
+                        <li>G.样本有明显小片段污染（FAQs-5/7）</li>
+                        <li>H.无目的条带</li>
+                        <li>I.样本粘稠或浑浊带色（FAQs-6）</li>
+                        <li>J.样本有明显不可溶沉淀（FAQs-6）</li>
+                    </ul>
+                </div>
+                <p><b>判定方法说明：</b></p>
+                <p><b>◇ 依据“备注”栏，当样品存在E/F/G/H任何一种情况时，“样品质量”判定为“不合格”，不合格样品处理意见如下：</b></p>
+                <p>1)判定H的样品无法建库；</p>
+                <p>2)不建议判定E/F/G的样品用于建库，但客户可要求承担风险建库。</p>
+                <p><b>◇ 依据检测结果，对样品的后续处理意见分以下情况：</b></p>
+                <p>1)结论“通过”样品可用于直接建库；</p>
+                <p>2)结论“不通过”但质量“合格”的样品为总量不足（C）、存在轻度RNA污染（A）或浓度偏低（D），C需客户补送样品，A、D可由实验室进行样品浓缩或RNA消化处理后建库；</p>
+                <p>3)结论“不通过”且质量“不合格”的样品建议重新送样，当样品不易重新制备时请与项目管理沟通风险建库的可能性。</p>
+
+                <h4>三、 结论</h4>
+                <div class="conclusion">
+                    <table width="600"  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>检测样品总数</th>
+                                <th>可直接建库样品数</th>
+                                <th>可风险建库样品</th>
+                                <th>不建议直接建库样品数（需重送样品）</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr align="center">
+                                <td>124</td>
+                                <td>15</td>
+                                <td>69</td>
+                                <td>40</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p><b>（如果您对检测结果有疑问，请优先参阅报告末尾的FAQs，或与项目管理取得联系。）</b></p>                   
+                    <div class="sampleJugement">
+                        <table width="600"  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                            <thead>
+                                <tr>
+                                    <th width="80">样品类型</th>
+                                    <th>建库类型</th>
+                                    <th>浓度要求(ng/ul)</th>
+                                    <th>总量要求(μg)</th>
+                                    <th>样品质量要求</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td rowspan="13">gDNA</td>
+                                    <td>重测序</td>
+                                    <td>≥65</td>
+                                    <td>1.5</td>
+                                    <td rowspan="13">无重度RNA污染，无严重降解</td>
+                                </tr>
+                                <tr>
+                                    <td>低起始量重测序</td>
+                                    <td>≥10</td>
+                                    <td>0.5</td>
+                                </tr>
+                                <tr>
+                                    <td>重测序-dual index</td>
+                                    <td>≥10</td>
+                                    <td>0.5</td>
+                                </tr>
+                                <tr>
+                                    <td>De novo（小片段）</td>
+                                    <td>≥20</td>
+                                    <td>3</td>
+                                </tr>
+                                <tr>
+                                    <td>mate-pair 2-5K</td>
+                                    <td>≥30</td>
+                                    <td>5</td>
+                                </tr>
+                                <tr>
+                                    <td>mate-pair 6-8K</td>
+                                    <td>≥30</td>
+                                    <td>20</td>
+                                </tr>
+                                <tr>
+                                    <td>外显子组/目标区域捕获</td>
+                                    <td>≥20</td>
+                                    <td>1</td>
+                                </tr>
+                                <tr>
+                                    <td>全基因组甲基化</td>
+                                    <td>≥20</td>
+                                    <td>4</td>
+                                </tr>
+                                <tr>
+                                    <td>RRBS</td>
+                                    <td>≥50</td>
+                                    <td>2</td>
+                                </tr>
+                                <tr>
+                                    <td>16S rDNA</td>
+                                    <td>≥10</td>
+                                    <td>50 ng</td>
+                                </tr>
+                                <tr>
+                                    <td>RAD</td>
+                                    <td>≥20</td>
+                                    <td>3</td>
+                                </tr>
+                                <tr>
+                                    <td>ddRAD</td>
+                                    <td>≥20</td>
+                                    <td>2</td>
+                                </tr>
+                                <tr>
+                                    <td>宏基因组</td>
+                                    <td>≥20</td>
+                                    <td>3</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="faq" style="line-height:25px;">
+                        <p><b>■ Frequently Asked Questions (FAQs):</b></p>
+                        <p><b>Q1.</b>为什么有的基因组DNA（gDNA）样品以Nanodrop测定显示浓度很高，而以琼脂糖凝胶电泳定量的浓度会低数倍甚至数十倍？</p>
+                        <p><b>A1.</b>Nanodrop只用于NGS核酸样品的粗略定量，在以Nanodrop定量gDNA时，单链核酸、降解gDNA、DNA小片段以及RNA都会对Nanodrop读值有贡献，
+                            此外，蛋白、糖类、酚类和碳水化合物等污染物在其他波段的吸收都可能导致Nanodrop测定值偏高，而以琼脂糖凝胶电泳定量时只考虑完整gDNA条带，
+                            因此Nanodrop的数值会虚高几倍至几十倍，gDNA样品纯度和完整度越差，两种定量方法的差异往往也越大。<b>对于两种方法定量数值差异过大的样品我们通常会重复检测以做确定，
+                                最终结果以电泳定量数值为准。</b></p>
+                        <p><b>Q2.</b>发生降解的gDNA样品可否建库，降解对文库构建和文库质量有什么样的影响？</p>
+                        <p><b>A2.</b>轻微降解的gDNA样品可用于建库并能确保测序数据在基因组上有较好的覆盖度；而<b>发生严重降解的样品不建议用于建库，测序数据容易产生高冗余、覆盖偏移甚至信息丢失。</b>
+                            当客户要求对严重降解的样品建库测序时，客户需承担建库失败或数据质量不理想的风险。</p>
+                        <p><b>Q3.</b>浓度偏低或总量不足的gDNA样品可否建库，对文库质量会有什么样的影响？</p>
+                        <p><b>A3.</b>满足浓度和总量要求的gDNA样品可以确保较好的文库质量和测序数据质量，低浓度样品和总量不足样品的测序数据的冗余度和对基因组的覆盖度都有可能受到影响，
+                            当客户要求对浓度偏低或总量不足的样品建库时，客户需承担建库失败或数据质量不理想的风险，具体风险系数请与项目管理沟通。</p>
+                        <p><b>Q4.</b>gDNA样品中有RNA污染怎么办？</p>
+                        <p><b>A4.</b>如果样品存在轻度的RNA污染，我们会在建库前增加RNA消化的步骤，<b>不建议将有严重RNA污染的样品用于建库，当客户要求对RNA污染严重的样品建库测序时，
+                                我们会在建库前增加RNA消化的步骤，但不能保证消化完全，客户需承担文库测序有效数据比例可能偏低的风险。</b></p>
+                        <p><b>Q5.</b>很多原核微生物在提取gDNA过程中很难将质粒DNA去除干净，这些DNA小片段会对建库测序产生什么样的影响？</p>
+                        <p><b>A5.</b>gDNA样品中的DNA小片段不会对建库成功率产生显著影响，但是这些DNA片段会同gDNA一起被建入文库进而产生测序数据，如果以参考基因组做比对，则<b>此类样品的比对率可能偏低；
+                                另外，小片段污染也可能影响gDNA打断过程的随机性进而影响到测序数据的覆盖度</b>。如果以此类样品的测序数据做de novo组装，则可能影响组装结果的准确性。</p>
+                        <p><b>Q6.</b>gDNA样品粘稠或浑浊带色或有不可溶沉淀时能否用于建库？可能会有什么影响？</p>
+                        <p><b>A6.</b>我们希望客户提供纯度良好的样品，对于质检时发现有粘稠或浑浊带色或含不可溶沉淀的样品，我们会给出相应备注，由于我们在建库前都会对gDNA样品做纯化处理，因此最终用于建库的样品都是纯度合格的样品。
+                            但是，粘稠或浑浊带色或含不可溶沉淀反映出样品含杂质较多，其纯化得率可能偏低，<b>如果因此出现纯化产物不足建库的情况，需要客户补送样品</b>。</p>
+                        <p><b>Q7.</b>基迪奥对不合格样品的处理意见如何？</p>
+                        <p><b>A7.</b>高质量的样品是保障NGS数据质量的关键，基迪奥致力于在样品质检环节为客户提供最真实详尽的样品状态反馈，对于质量不合格样品，我们建议您优先考虑改进样品制备流程并重新送样，当您的样品不易重新制备时，请与项目管理组沟通以当前样品进行建库的可行性。
+                            <b>基迪奥有足够的信心可以帮您处理各种不合格样品以拿到宝贵的实验数据，但是由于此类样品不完全符合建库要求，因此建库测序环节仍存在一定的风险，包括文库特征异常、建库失败或测序数据质量不理想的风险，在了解相关风险的前提下，
+                                如果您委托基迪奥实验室对质量不合格样品建库测序，则您需相应承担建库失败或测序数据不理想的风险，产生的相关费用将由您承担</b>。</p>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>

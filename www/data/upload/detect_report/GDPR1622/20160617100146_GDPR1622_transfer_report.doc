@@ -1,0 +1,268 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"xmlns:w="urn:schemas-microsoft-com:office:word"xmlns="http://www.w3.org/TR/REC-html40">
+    <head>
+        <xml><w:WordDocument><w:View>Print</w:View></xml>
+        <meta http-equiv='Content-Type' content='text/html; charset=utf-8'/> 
+        <style>
+            //body{padding:0;margin:0;}
+            //.main{margin:0 auto;width:1200px;}
+        </style>
+    </head>  
+    <body>
+        <div class="main">
+            <form method="post" action="">
+                <h3 align='center'>样品检测报告</h3>
+
+                <h4>一、 项目及样品信息</h4>
+                <table  cellpadding="4" cellspacing="0" border="1"  align='center'> 
+                    <tr> 
+                        <td>项目名称</td> 
+                        <td colspan='3'>甘肃农业大学1个紫花苜蓿转录组+12个紫花苜蓿蛋白定量测序分析项目</td> 
+                    </tr> 
+                    <tr> 
+                        <td>项目编号</td> 
+                        <td colspan='3'>GDPR1622</td> 
+                    </tr>  
+                    <tr> 
+                        <td>样品类型</td>
+                        <td>DNA</td>
+                        <td>样品状态</td>
+                        <td>溶于ddH2O</td>
+                    </tr> 
+                    <tr> 
+                        <td>样品数量</td>
+                        <td>2</td>
+                        <td>样品运输情况</td>
+                        <td>良好</td>
+                    </tr>
+                    <tr> 
+                        <td>收样日期</td>
+                        <td>2016-02-29</td>
+                        <td>完成检测日期</td>
+                        <td>2016-03-01</td>
+                    </tr>
+                    <tr> 
+                        <td>报告出具人</td>
+                        <td>XYX</td>
+                        <td>报告审核人</td>
+                        <td>YQC</td>
+                    </tr>
+                </table> 
+
+                <h4>二、 检测过程和结果</h4>
+
+                <p><b>1. 检测前处理</b>（检测浓度指导区间：25-500 ng/ul——Nanodrop值）：</p>
+                <p>a.样本浓度Nanodrop值在指导区间内时，直接Agilent 2100检测；</p>
+                <p>b.样本浓度Nanodrop值高于指导区间时，稀释至区间内进行Agilent 2100检测，检测值乘以稀释倍数得出样本原始浓度；</p>
+                <p>c.样本浓度Nanodrop值低于指导区间时，中止检测，沟通改用Agilent 2100 RNA 6000 Pico kit检测的可行性。</p>
+
+                <p><b>2. 纯度与浓度检测</b></p>
+                <p>■初步定量--NanoDrop 2000分光光度计检测</p>
+                <p>NanoDrop 2000检测空白参照：■ddH2O；□ DEPC水；□TE Buffer；□ EB</p>
+                <p>■浓度精确定量—Agilent 2100 RNA 6000 Nano kit检测</p>
+
+                <p><b>3. 检测结果（样本浓度和RIN值按照Agilent2100结果判定）</b></p>
+                <p>Agilent <b>2100检测结果：</b></p>
+                <p>上样量：原液或稀释液1ul</p>
+                <div class="sampleImag" style="text-align: center;">
+                                    </div>
+                <div class="combine">
+                    <table cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>生产编号</th>
+                                <th>样品名称</th>
+                                <th>浓度ng/ul</th>
+                                <th>体积ul</th>
+                                <th>总量ug</th>
+                                <th>RIN值</th>
+                                <th>物种</th>
+                                <th>文库类型</th>
+                                <th>样品质量</th>
+                                <th>结论</th>
+                                <th>备注</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                                                            <tr align="center">
+                                    <td>D1602007</td>
+                                    <td>G-T-4</td>
+                                    <td>69.8</td>
+                                    <td>20</td>
+                                    <td>1.40</td>
+                                    <td>4</td>
+                                    <td>牡丹</td>
+                                    <td> 线粒体测序</td>
+                                    <td>合格</td>
+                                    <td>不通过</td>
+                                    <td>BC</td>
+                                </tr>
+                                                    </tbody>
+                    </table>
+                </div>
+                <div class="statement" style="margin:0 auto;width:600px;text-align: left;">
+                <ul style="list-style-type: none;line-height: 30px;">
+                        <li>1)说明：NanoDrop初检浓度高于500ng/ul的样品均会做合理倍数稀释后进行Agilent 2100检测，之后做浓度换算得出样品原始浓度，此处提供浓度均为原始浓度；</li>
+                        <li>2)特例1：RIN值不达标但2100峰图特征与同批次合格样品相近的样品判定为合格；</li>
+                        <li>3)特例2：总量不达标但达到标准值80%以上的样品可以承担风险建库；</li>
+                    </ul>
+                </div>
+                <p><b>（如果您对检测结果有疑问，请优先参阅报告末尾的FAQs，或与项目管理取得联系。）</b></p>
+                <div class="remark" style="margin:0 auto;width:600px;text-align: left;">
+                    <b>备注选项：</b>
+                    <ul style="list-style-type: none;line-height: 30px;">
+                        <li>A.浓度不达标（FAQs-3/8）</li>
+                        <li>B.RIN值不达标（FAQs-4/8）</li>
+                        <li>C.总量不达标（FAQs-3/8）</li>
+                        <li>D.严重DNA污染（FAQs-5/6/8）</li>
+                        <li>E.样本明显降解（5S峰过高）（FAQs-4/8）</li>
+                        <li>F.无明显检测峰</li>
+                        <li>G.样本浑浊或带色（FAQs-7）</li>
+                        <li>H.样本有明显不可溶沉淀（FAQs-7）</li>
+                        <li>I.可风险建库</li>
+                    </ul>
+                </div>
+                <p><b>判定方法说明：</b></p>
+                <p><b>◇ 依据“备注”栏，当样品存在B/D/E/F任何一种情况时，“样品质量”判定为“不合格”，不合格样品处理意见如下：</b></p>
+                <p>1)判定F的样品无法建库；</p>
+                <p>2)不建议判定B/D/E的样品用于建库，但客户可要求承担风险建库。</p>
+                <p><b>◇ 依据检测结果，对样品的后续处理意见分以下情况：</b></p>
+                <p>1)结论“通过”样品可用于直接建库；</p>
+                <p>2)结论“不通过”但质量“合格”样品为浓度偏低（A）或总量不足（C），A需经客户知情同意承担风险建库，C需客户补送样品；</p>
+                <p>3)结论“不通过”且质量“不合格”样品请与项目管理沟通风险建库的可行性，或重新送样。</p>
+
+                <h4>三、 结论</h4>
+                <div class="conclusion">
+                    <table cellpadding="4" cellspacing="0" border="1"  align='center'>
+                        <thead>
+                            <tr>
+                                <th>检测样品总数</th>
+                                <th>可直接建库样品数</th>
+                                <th>可风险建库样品</th>
+                                <th>不建议直接建库样品数（需重送样品）</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr align="center">
+                                <td>2</td>
+                                <td>0</td>
+                                <td>1</td>
+                                <td>1</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <p><b>（如果您对检测结果有疑问，请优先参阅报告末尾的FAQs，或与项目管理取得联系。）</b></p>                   
+                    <div class="sampleJugement">
+                        <p><b>注：样品判定标准如下：</b></p>
+                        <table  cellpadding="4" cellspacing="0" border="1"  align='center'>
+                            <thead>
+                                <tr>
+                                    <th width="80">样品类型</th>
+                                    <th>文库类型</th>
+                                    <th>浓度(ng/ul)</th>
+                                    <th>RIN值</th>
+                                    <th>总量(μg)</th>
+                                    <th>其它</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td rowspan="4">真核生物<br/>total RNA</td>
+                                    <td>转录组</td>
+                                    <td>≥100</td>
+                                    <td>≥7.0</td>
+                                    <td>5</td>
+                                    <td rowspan="5">无DNA或杂质污染</td>
+                                </tr>
+                                <tr>
+                                    <td>链特异性转录组</td>
+                                    <td>≥100</td>
+                                    <td>≥7.0</td>
+                                    <td>5</td>
+                                </tr>
+                                <tr>
+                                    <td>去核糖体RNA-seq</td>
+                                    <td>≥100</td>
+                                    <td>≥7.0</td>
+                                    <td>3</td>
+                                </tr>
+                                <tr>
+                                    <td>低起始量转录组</td>
+                                    <td>≥5</td>
+                                    <td>≥7.0</td>
+                                    <td>0.05</td>
+                                </tr>
+                                <tr>
+                                    <td>原核生物<br/>total RNA</td>
+                                    <td>原核生物转录组</td>
+                                    <td>≥100</td>
+                                    <td>≥7.0</td>
+                                    <td>3</td>
+                                </tr>
+                                <tr>
+                                    <td>Total RNA</td>
+                                    <td>小RNA</td>
+                                    <td>≥100</td>
+                                    <td>≥7.0</td>
+                                    <td>5</td>
+                                    <td rowspan="2"></td>
+                                </tr>
+                                <tr>
+                                    <td>Micro RNA</td>
+                                    <td>小RNA</td>
+                                    <td>≥200</td>
+                                    <td>无</td>
+                                    <td>2</td>
+                                </tr>
+                                <tr>
+                                    <td>RIP RNA</td>
+                                    <td>RIP-seq</td>
+                                    <td>≥30</td>
+                                    <td>无</td>
+                                    <td>400 ng</td>
+                                    <td>主带在300nt附近</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p>RIN值判定特例说明：</p>
+                        <p>1）由于植物会出现多条核糖体RNA条带，故有时RIN值机器无法判读或者机器判读有误，此时我们会根据Agilent 2100电泳图来判定样本是否合格。</p>
+                        <p>2）对于一些特殊物种，如：蚂蚁，蟹类等节肢动物，RIN值与样本实际降解情况并不相符，故对于此类样本我们也会根据Agilent 2100电泳图来判定样本是否合格。</p>
+                    </div>
+
+                    <div class="faq" style="line-height:25px;">
+                        <p><b>■ Frequently Asked Questions (FAQs):</b></p>
+                        <p><b>Q1.</b>为什么有的样品用Agilent 2100检测时其模拟电泳图条带会出现错位？</p>
+                        <p><b>A1.</b>样品上机检测前需要在芯片上进行注胶和加样操作，这步操作有时会受到气泡的干扰，有时也会因操作不到位导致胶程缩短进而影响样品的电泳进度，
+                            这最终会导致样品条带大小呈现异常，但并不影响质量判定和定量准确性，对于胶图异常样品我们一般会安排重检。</p>
+                        
+                        <p><b>Q2.</b>为什么有的样品总量符合建库标准但中途又反馈需要补充样品？</p>
+                        <p><b>A2.</b>真核生物RNA-seq建库环节的第一步是抽提mRNA，mRNA抽提得率受到物种和样品状态的影响，发生降解的total RNA和一些来自特殊组织或经特殊处理样品的total RNA的mRNA抽提率显著低于常规样品，
+                            为了确保建库质量，我们需要增加total RNA用量以获得足够mRNA。目前我们对mRNA用量的下限是30 ng。</p>
+                        
+                        <p><b>Q3.</b>浓度偏低或总量不足的total RNA样品能否建库，文库和测序数据质量如何？</p>
+                        <p><b>A3.</b>满足浓度和总量要求的total RNA样品可以确保较好的文库质量和测序数据质量，当客户要求基迪奥对浓度偏低或总量不足的样品建库时，客户需承担建库失败的风险，
+                            具体风险系数请与项目管理沟通。</p>
+                        
+                        <p><b>Q4.</b>如果用RIN值不达标或发生明显降解的total RNA样品建库，文库构建和文库质量会受到什么样的影响？</p>
+                        <p><b>A4.</b>低于质检标准的RIN值或5S峰过高指示RNA样品存在较明显的降解，当客户要求基迪奥对此类样品建库测序时，客户需承担测序数据比对率和冗余度可能不够理想的风险。</p>
+                        
+                        <p><b>Q5.</b>如果total RNA样品中有严重的DNA污染，会对RNA-seq文库质量有什么样的影响？</p>
+                        <p><b>A5.</b>少量的DNA污染会mRNA抽提过程中被去除，但如果存在较高浓度的DNA污染，则非特异吸附可能导致DNA片段的残留，进而导致文库信息的污染，当客户要求基迪奥对此类样品建库测序时，
+                            客户需承担文库测序数据比对率可能偏低的风险。</p>
+                        
+                        <p><b>Q6.</b>如果total RNA样品中存在明显的DNA污染，基迪奥是否提供DNA消化服务？</p>
+                        <p><b>A6.</b>由于DNA消化和后续的纯化步骤会导致RNA样品量损失，甚至可能影响RNA样品的质量，因此我们不提供DNA消化服务，建议客户在RNA抽提过程中增加DNA消化处理步骤。</p>
+                        
+                        <p><b>Q7.</b>Total RNA样品粘稠或浑浊带色或有不可溶沉淀时能否用于建库？可能会有什么影响？</p>
+                        <p><b>A7.</b>我们希望客户提供纯度良好的样品，对于质检时发现有粘稠或浑浊带色或含不可溶沉淀的样品，我们会给出相应备注，此类样品在建库过程中的beads吸附效率可能偏低，
+                            如果因此出现mRNA不足建库或文库异常的情况，需要客户重新送样。</p>
+                        
+                        <p><b>Q8.</b>基迪奥对不合格样品的处理意见如何？</p>
+                        <p><b>A8.</b>高质量的样品是保障NGS数据质量的关键，基迪奥致力于在样品质检环节为客户提供最真实详尽的样品状态反馈，对于质量不合格样品，我们建议您优先考虑改进样品制备流程并重新送样，当您的样品不易重新制备时，请与项目管理组沟通以当前样品进行建库的可行性。
+                            <b>基迪奥有足够的信心可以帮您处理各种不合格样品以拿到宝贵的实验数据，但是由于此类样品不完全符合建库要求，因此建库测序环节仍存在一定的风险，包括文库特征异常、建库失败或测序数据质量不理想的风险，在了解相关风险的前提下，
+                                如果您委托基迪奥实验室对质量不合格样品建库测序，则您需相应承担建库失败或测序数据不理想的风险，产生的相关费用将由您承担</b>。</p>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </body>
+</html>

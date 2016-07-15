@@ -1,0 +1,20 @@
+        //{{{对头像大图处理                
+if($biginfo[0]>133 || $biginfo[1]>180){
+        if(133/180 > $biginfo[0]/$biginfo[1]){
+                $_h = 180;
+                $_w = $biginfo[0] * 180 / $biginfo[1];
+        }else{
+                $_w = 133;
+                $_h = $biginfo[1] * 133 / $biginfo[0];
+        }
+        $_im = imagecreatetruecolor($_w, $_h);
+        $_bg = imagecolorallocate($_im, 255, 255, 255);
+        imagefill($_im, 0, 0, $_bg);
+        $_im2 = imagecreatefromjpeg($bigavatarfile);
+        imagecopyresampled($_im, $_im2 ,0, 0, 0, 0,$_w,$_h,$biginfo[0], $biginfo[1]);
+        imagedestroy($_im2);
+        clearstatcache();
+        imagejpeg($_im,$bigavatarfile,100);
+        imagedestroy($_im);
+}
+//对头像大图处理}}}
